@@ -3,9 +3,8 @@
 即 **融云IM的IPC进程始终没有启动**
 过程很纠结，这里记录一下，分享出来
 
-
-#1 找不到IPC进程
-#####1-1 第一种情况
+# 1 找不到IPC进程
+### 1-1 第一种情况
 - **集成错误，需要按照官网的指示
 在libs或者jniLibs里配至好对应的so库libsqlite.so**
 ![](https://upload-images.jianshu.io/upload_images/3787831-7d5dcdd837488438.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/600)
