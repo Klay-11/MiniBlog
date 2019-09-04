@@ -58,9 +58,7 @@ defaultConfig {
 也就是说一直以来我都上传的都不是完整的代码，无语了！  
 ![](https://upload-images.jianshu.io/upload_images/3787831-d5f6188393d8a300.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/500)
 
-
-
 ---
 # 参考  
-（融云官网）https://www.rongcloud.cn/docs/android.html  
-（博客）https://juejin.im/post/5b6e91caf265da0f7c4ff60d
+https://www.rongcloud.cn/docs/android.html  
+https://juejin.im/post/5b6e91caf265da0f7c4ff60d
